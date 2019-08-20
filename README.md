@@ -18,5 +18,5 @@ At: IIIT Hyderabad
 
 Topic: Machine Learning and its theory
 
-Participants: Srinidhi Kulkarni (GitHub: SrinidhiKulkarni28)
+Participants: Srinidhi Kulkarni (GitHub: SrinidhiKulkarni28),
               Pulkit Thakar (GitHub: PulkitThakar)
