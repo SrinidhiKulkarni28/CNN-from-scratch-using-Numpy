@@ -12,7 +12,7 @@ The present written code will terminate once the accuracy crosses 85% and will s
 
 Details of the internship:
 
-Guide: Dr. Girish Varma
+Guide: Dr. Girish Varma (Homepage: https://girishvarma.in)
 
 At: IIIT Hyderabad
 
